@@ -1,0 +1,1 @@
+SELECT cod_cidade, (temp_max+temp_min)/2 as temp_media, data from clima;

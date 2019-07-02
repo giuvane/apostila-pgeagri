@@ -1,0 +1,2 @@
+DELETE FROM clima
+	WHERE data < '2019-01-05'
